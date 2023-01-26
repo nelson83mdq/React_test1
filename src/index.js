@@ -4,6 +4,8 @@ import './index.css';
 //import App from './App';
 //import reportWebVitals from './reportWebVitals';
 
+//esto es una prueba de git más que de react (dia 1)
+
 const App = () => {
   const Course = 'Half Stack application development'
   const Part1 = 'Fundamentals of React'
